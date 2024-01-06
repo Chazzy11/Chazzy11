@@ -17,6 +17,10 @@
 <img src="https://github.com/Chazzy11/Chazzy11/assets/132924201/a9a8bc4e-287d-4b1d-aa82-af5bc7514135">
 </div>
 
+---
+
+### :woman_technologist: About Me :
+
 
 
 - 👀 I’m interested in ...
