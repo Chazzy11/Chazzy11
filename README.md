@@ -27,8 +27,24 @@ I love learning new things and finding new challenges. Seeing the massive impact
 
 I ensure that the code I write is clean and testable. If the only const = CHANGE, then solutions must be robust enough to stand the test of time. 
 
+---
 
-
+### :hammer_and_wrench: Languages and Tools :
+<div>
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html" height="40" width="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css" height="40" width="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" height="40" width="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" height="40" width="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" height="40" width="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs" height="40" width="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="express" height="40" width="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" height="40" width="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="nextjs" height="40" width="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" height="40" width="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" height="40" width="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" height="40" width="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" alt="trello" height="40" width="40"/>
+</div> 
 <!---
 Chazzy11/Chazzy11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
