@@ -14,14 +14,14 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div align="center">
-<img src="https://github.com/Chazzy11/Chazzy11/assets/132924201/a9a8bc4e-287d-4b1d-aa82-af5bc7514135">
+<img src="https://github.com/Chazzy11/Chazzy11/assets/132924201/2a916299-ff0e-4a46-8d02-ce7972d395f2">
 </div>
 
 ---
 
 ### :woman_technologist: About Me :
 
-I'm an aspiring software developer based in London with a background in Philosophy and Languages. I recently completed the School of Code bootcamp - an oppurtunity which allowed me to work on many projects across full-stack development and collaborate with a new team each week. 
+I'm an aspiring software developer based in London with a background in Philosophy and Languages. I recently completed the School of Code bootcamp - an opportunity which allowed me to work on many projects across full-stack development and collaborate with a new team each week. 
 
 I love learning new things and finding new challenges. Seeing the massive impact that good technological solutions can have on our world and the lives of others inspires me to use my skills to solve complex problems in real life. 
 
@@ -70,7 +70,7 @@ I ensure that the code I write is clean and testable. If the only const = CHANGE
 - 🩰 Ballet Dancer
 - 🤘 Songwriter and Musician - Metal / Post-Grunge
 
-I'm always on the lookout for new opportunities and challenges, so if you have a cool project in mind or just want to chat, don't hesitate to reach out. Let's create something awesome together!
+I'm always on the lookout for new opportunities and challenges, so if you have a cool project in mind or just want to chat, don't hesitate to reach out. Let's create something amazing together!
 
 ---
 
