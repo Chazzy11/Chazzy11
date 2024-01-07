@@ -21,12 +21,13 @@
 
 ### :woman_technologist: About Me :
 
+I'm an aspiring software developer based in London with a background in Philosophy and Languages. I recently completed the School of Code bootcamp - an oppurtunity which allowed me to work on many projects across full-stack development and collaborate with a new team each week. 
+
+I love learning new things and finding new challenges. Seeing the massive impact that good technological solutions can have on our world and the lives of others inspires me to use my skills to solve complex problems in real life. 
+
+I ensure that the code I write is clean and testable. If the only const = CHANGE, then solutions must be robust enough to stand the test of time. 
 
 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 Chazzy11/Chazzy11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
