@@ -14,7 +14,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div align="center">
-<img src="https://github.com/Chazzy11/Chazzy11/assets/132924201/2a916299-ff0e-4a46-8d02-ce7972d395f2](https://github.com/user-attachments/assets/3bd77f43-019b-4b4f-8a53-30f1feef3f67">
+<img src="https://github.com/user-attachments/assets/3bd77f43-019b-4b4f-8a53-30f1feef3f67">
 </div>
 
 ---
