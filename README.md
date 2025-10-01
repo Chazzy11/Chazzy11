@@ -14,14 +14,14 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div align="center">
-<img src="https://github.com/Chazzy11/Chazzy11/assets/132924201/2a916299-ff0e-4a46-8d02-ce7972d395f2">
+<img src="https://github.com/Chazzy11/Chazzy11/assets/132924201/2a916299-ff0e-4a46-8d02-ce7972d395f2](https://github.com/user-attachments/assets/3bd77f43-019b-4b4f-8a53-30f1feef3f67">
 </div>
 
 ---
 
 ### :woman_technologist: About Me :
 
-I'm an aspiring software developer based in London with a background in Philosophy and Languages. I recently completed the School of Code bootcamp - an opportunity which allowed me to work on many projects across full-stack development and collaborate with a new team each week. 
+Data Engineer and Analyst based in London. I build data pipelines and analytics infrastructure for financial services clients using Go, Python, and cloud tools. Currently exploring LLM integration and AI tooling through personal projects.
 
 I love learning new things and finding new challenges. Seeing the massive impact that good technological solutions can have on our world and the lives of others inspires me to use my skills to solve complex problems in real life. 
 
@@ -37,11 +37,12 @@ I ensure that the code I write is clean and testable. If the only const = CHANGE
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" height="40" width="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" height="40" width="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" height="40" width="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="go" height="40" width="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs" height="40" width="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="express" height="40" width="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" height="40" width="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="nextjs" height="40" width="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" height="40" width="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" height="40" width="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" height="40" width="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" height="40" width="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" alt="trello" height="40" width="40"/>
@@ -52,15 +53,13 @@ I ensure that the code I write is clean and testable. If the only const = CHANGE
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgresql" height="40" width="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="mongodb" height="40" width="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="jest" height="40" width="40"/>
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--NPiuIjAF--/c_fill,f_auto,fl_progressive,h_320,q_auto,w_320/https://dev-to-uploads.s3.amazonaws.com/uploads/organization/profile_image/1689/97a01d73-5001-4a8c-a72b-8b583f823681.png" alt="cypress" height="40" width="40"/>
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--ifx3RNf0--/c_fill,f_auto,fl_progressive,h_320,q_auto,w_320/https://dev-to-uploads.s3.amazonaws.com/uploads/organization/profile_image/5035/6b8f298c-c09b-48a5-9f70-a811376e63af.png" alt="postman" height="40" width="40"/>
-</div> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg" alt="jest" height="40" width="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" alt="jest" height="40" width="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="jest" height="40" width="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/poetry/poetry-original.svg" alt="jest" height="40" width="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" alt="jest" height="40" width="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" alt="jest" height="40" width="40"/>
 
----
-
-### 👩‍🎓 Currently Learning:
-- 🐍 Python
-- ☕ Udemy Course on Cypress with Mocha and Cucumber frameworks
 
 ---
 
